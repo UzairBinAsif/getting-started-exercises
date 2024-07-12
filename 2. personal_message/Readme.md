@@ -1,0 +1,1 @@
+I have used typecasting to insert variable as well as inverted commas in the console.
